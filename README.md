@@ -27,7 +27,9 @@
 
   ### Tools:
   <code><img width="4%" src="https://cdn-icons-png.flaticon.com/512/733/733553.png"></code>
+  <code><img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></code>
   <code><img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"></code>
+  
   
 
 ### Studying in this moment:
