@@ -13,11 +13,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=pedrosvr&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
-<div align="center">  
-<a href="www.instagram.com/pedrosv._" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-</div>
-  
-
 ### Main skills:
 <code><img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></code>
 <code><img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></code>
@@ -29,8 +24,6 @@
   <code><img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"></code>
   
 
-          
-  
 ### Studying in this moment:
 <code><img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"></code>
 <code><img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"></code>
@@ -45,5 +38,4 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{pedrosvr}/count.svg" /></p> 
 <br></div>
   
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
