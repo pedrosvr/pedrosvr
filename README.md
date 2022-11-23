@@ -8,12 +8,10 @@
 </div>
  
 
-
-![Contribution](https://activity-graph.herokuapp.com/graph?username=pedrosvr&theme=gotham&hide_border=true&area=true)
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pedrosvr&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
+<div>
+  ![Snake animation](https://github.com/pedrosvr/pedrosvr/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
 
 <div align="center">  
 <a href="https://instagram.com/pedrosv._" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
